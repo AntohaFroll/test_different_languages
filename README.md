@@ -1,1 +1,1 @@
-Different language test for Autotization course with Python + Selenium on stepik.org
+Different language test for Test Automation with Selenium and Python course
